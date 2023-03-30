@@ -1,0 +1,6 @@
+/* Ignore Node */
+node_modules
+
+/* Ignore VS code*/
+.vscode
+
